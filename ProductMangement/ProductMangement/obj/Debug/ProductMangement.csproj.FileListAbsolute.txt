@@ -1,0 +1,240 @@
+E:\mywork\ProductMangement\ProductMangement\bin\ApplicationInsights.config
+E:\mywork\ProductMangement\ProductMangement\bin\ProductMangement.dll.config
+E:\mywork\ProductMangement\ProductMangement\bin\ProductMangement.dll
+E:\mywork\ProductMangement\ProductMangement\bin\ProductMangement.pdb
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\csc.exe
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\csc.exe.config
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\csc.rsp
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\csi.exe
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\csi.exe.config
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\csi.rsp
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.AppContext.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Collections.Immutable.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Console.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Diagnostics.Process.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.IO.Compression.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.IO.FileSystem.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.IO.Pipes.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Reflection.Metadata.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Security.AccessControl.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Security.Claims.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Security.Principal.Windows.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Threading.Thread.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.ValueTuple.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Xml.XmlDocument.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Xml.XPath.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\vbc.exe
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\vbc.exe.config
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\vbc.rsp
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\VBCSCompiler.exe
+E:\mywork\ProductMangement\ProductMangement\bin\roslyn\VBCSCompiler.exe.config
+E:\mywork\ProductMangement\ProductMangement\bin\Antlr3.Runtime.dll
+E:\mywork\ProductMangement\ProductMangement\bin\EntityFramework.dll
+E:\mywork\ProductMangement\ProductMangement\bin\EntityFramework.SqlServer.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AI.Agent.Intercept.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AI.DependencyCollector.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AI.Web.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AI.WindowsServer.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.ApplicationInsights.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AspNet.Identity.Core.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Facebook.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Google.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Twitter.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Web.Infrastructure.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Newtonsoft.Json.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Owin.dll
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.Helpers.dll
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.Mvc.dll
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.Optimization.dll
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.Razor.dll
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.WebPages.Deployment.dll
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.WebPages.dll
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.WebPages.Razor.dll
+E:\mywork\ProductMangement\ProductMangement\bin\WebGrease.dll
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.Helpers.xml
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.Mvc.xml
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.Optimization.xml
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.Razor.xml
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.WebPages.xml
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.WebPages.Deployment.xml
+E:\mywork\ProductMangement\ProductMangement\bin\System.Web.WebPages.Razor.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Antlr3.Runtime.pdb
+E:\mywork\ProductMangement\ProductMangement\bin\Newtonsoft.Json.xml
+E:\mywork\ProductMangement\ProductMangement\bin\EntityFramework.xml
+E:\mywork\ProductMangement\ProductMangement\bin\EntityFramework.SqlServer.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AspNet.Identity.Core.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Facebook.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Google.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Twitter.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.ApplicationInsights.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AI.DependencyCollector.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AI.WindowsServer.xml
+E:\mywork\ProductMangement\ProductMangement\bin\Microsoft.AI.Web.xml
+E:\mywork\ProductMangement\ProductMangement\obj\Debug\ProductMangement.csprojResolveAssemblyReference.cache
+E:\mywork\ProductMangement\ProductMangement\obj\Debug\ProductMangement.csproj.CoreCompileInputs.cache
+E:\mywork\ProductMangement\ProductMangement\obj\Debug\ProductMangement.csproj.CopyComplete
+E:\mywork\ProductMangement\ProductMangement\obj\Debug\ProductMangement.dll
+E:\mywork\ProductMangement\ProductMangement\obj\Debug\ProductMangement.pdb
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\ApplicationInsights.config
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\ProductMangement.dll.config
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\ProductMangement.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\ProductMangement.pdb
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Owin.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.Optimization.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.WebPages.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\WebGrease.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.Optimization.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.WebPages.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\obj\Debug\ProductMangement.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\obj\Debug\ProductMangement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\obj\Debug\ProductMangement.csproj.CopyComplete
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\obj\Debug\ProductMangement.dll
+C:\Users\Dell\Desktop\New folder (6)\New folder\ProductMangement\ProductMangement\obj\Debug\ProductMangement.pdb

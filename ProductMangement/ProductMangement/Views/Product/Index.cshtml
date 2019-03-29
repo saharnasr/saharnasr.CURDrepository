@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ProductMangement.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="panel-heading panel-head"> <h4>Products Listing</h4></div>
+<div class="panel-body">
+    <a id="createproduct"
+       href="@Url.Action("Create")" class="btn btn-success">
+        <span class="glyphicon glyphicon-plus"></span>Product
+    </a>
+    <table class="table table-responsive table-bordered table-striped" style="margin: 4px">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-primary" })
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-success" })
+
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+}
+
+    </table>
+    </div>
